@@ -1,8 +1,8 @@
-Common NetSurf user options
+Common ToldenInternet user options
 ---------------------------
 
 This document outlines the common configuration options supported by
-  the NetSurf core.
+  the ToldenInternet core.
 
 Overview
 ========

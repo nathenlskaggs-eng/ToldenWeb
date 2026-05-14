@@ -1,12 +1,12 @@
 --------------------------------------------------------------------------------
-  NetSurf project libraries required                               1 July 2012
+  ToldenInternet project libraries required                               1 July 2012
 --------------------------------------------------------------------------------
 
-  To build NetSurf, you need the libraries required by the core, and any extra
+  To build ToldenInternet, you need the libraries required by the core, and any extra
   libraries required by the specific front end you are building.
 
 
-  NetSurf Core
+  ToldenInternet Core
 ==============
 
   Required:
